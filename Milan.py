@@ -216,7 +216,7 @@ def settings():
 #[===================LOGO======================]#
 def FBOLDIDSFUCKER(uid, pas, tl):
     global loop, ok
-    sys.stdout.write(f"\r\r\033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m [ANISH-HERE] \033[1;37m❨\033[1;31mCRACK\033[1;37m❩\033[1;32m %s \033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m OK \033[1;31m=\033[1;32m %s "%(loop,ok))
+    sys.stdout.write(f"\r\r\033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m [MILAN-OK] \033[1;37m❨\033[1;31mCRACK\033[1;37m❩\033[1;32m %s \033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m OK \033[1;31m=\033[1;32m %s "%(loop,ok))
     sys.stdout.flush()    
     try:
         for ps in pas:
